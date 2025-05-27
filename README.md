@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monosshi Zaman</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monosshi&label=Profile%20views&color=0e75b6&style=flat" alt="monosshi" /> </p>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/monosshi_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="monosshi_21" height="30" width="40" /></a>
